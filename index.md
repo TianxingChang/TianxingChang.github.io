@@ -1,21 +1,16 @@
-## Hiiiiiii
-
-You can use the [editor on GitHub](https://github.com/ISDworker/ISDworker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Createx Studio
+Okay, I'm just a freshman who's currently studying nothing @HKUST. 
+My name is Terry.
+And this is my studio website.
 
 ### Createx Studio 
 
-Hi there! Welcome to my studio, this is Terry Chang. ^_^ 
+Hi there! Welcome to my studio, this is **Terry Chang**. ^_^ 
 Currently I am a freshman at @HKUST who have a passion for designing something new and useful.
+- My project
 
+```
 
-```markdown
-
-
-# 
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -23,17 +18,17 @@ Currently I am a freshman at @HKUST who have a passion for designing something n
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### WOW
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISDworker/ISDworker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Okay that's enough
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Emmm, nothing more to say...
+Well, goodbye. 
