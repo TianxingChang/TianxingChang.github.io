@@ -7,16 +7,17 @@ And this is my studio website.
 
 Hi there! Welcome to my studio, this is **Terry Chang**. ^_^ 
 Currently I am a freshman at @HKUST who have a passion for designing something new and useful.
-- My project
+- Project
+  1. Mindterial
+  2. MouseX
+  3. Tesseract Printer
+  4. 
+- Thinking
 
 ```
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 
 
