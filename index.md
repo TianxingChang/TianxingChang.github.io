@@ -1,17 +1,19 @@
-## Welcome to GitHub Pages
+## Hiiiiiii
 
 You can use the [editor on GitHub](https://github.com/ISDworker/ISDworker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Createx Studio 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi there! Welcome to my studio, this is Terry Chang. ^_^ 
+Currently I am a freshman at @HKUST who have a passion for designing something new and useful.
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
+
+# 
 ## Header 2
 ### Header 3
 
