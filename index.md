@@ -11,23 +11,20 @@ Currently I am a freshman at @HKUST who have a passion for designing something n
   1. Mindterial
   2. MouseX
   3. Tesseract Printer
-  4. 
+  4. OCRobot
 - Thinking
+  [Basically nothing]
+  
 
 ```
 
-
-
-
-
-
-[Link](url) and ![Image](src)
 ```
 
 
 ### WOW
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ISDworker/ISDworker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I can hold this website for free !!! 
+
 
 ### Okay that's enough
 
